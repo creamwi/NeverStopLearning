@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <body>
+    <h1>TOYS'R'U!</h1>
+    <p> Welcome to TOYS'R'U, where all you need is your imagination!</p>
+    <a href="">About Us</a>
+    <a href="">Privacy </a>
+    <a href="">Jobs</a>
+    <a href=""><strong>Design a New Toy</strong></a>
+    <p>Click the link above to start designing your new toy!</p>
+    <h2>Best Sellers</h2>
+    <ol>
+      <li><a href="">Teddybear</a></li>
+      <li><a href="">Rocking horse</a></li>
+      <li><a href="">Bouncy Ball</a></li>
+    </ol>
+    <ul>
+      <li>About Us</li>
+      <li>Privacy</li>
+      <li>Jobs</li>
+    </ul>
+    <footer>
+      <p>TOYS'R'U</p>
+      <p><a href="mailto:nobody@getmimo.com">Email us</a>
+    </footer>
+  </body>
+</html>
